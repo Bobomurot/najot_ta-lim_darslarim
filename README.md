@@ -1,1 +1,2 @@
-# najot_ta-lim_darslarim
+# najot_talim_lessons
+This repository contains my coxdce related to machine learning!
